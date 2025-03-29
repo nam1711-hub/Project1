@@ -15,11 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp">
+    <ClCompile Include="2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FilName.cpp">
+    <ClCompile Include="BangCuuChuong.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BangCuuChuong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
